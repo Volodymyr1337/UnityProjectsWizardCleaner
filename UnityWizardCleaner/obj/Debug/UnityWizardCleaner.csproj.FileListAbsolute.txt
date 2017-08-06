@@ -1,0 +1,9 @@
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\bin\Debug\UnityWizardCleaner.exe.config
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\bin\Debug\UnityWizardCleaner.exe
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\bin\Debug\UnityWizardCleaner.pdb
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\obj\Debug\UnityWizardCleaner.csprojResolveAssemblyReference.cache
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\obj\Debug\UnityWizardCleaner.Form1.resources
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\obj\Debug\UnityWizardCleaner.Properties.Resources.resources
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\obj\Debug\UnityWizardCleaner.csproj.GenerateResource.Cache
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\obj\Debug\UnityWizardCleaner.exe
+c:\users\volodymyr\documents\visual studio 2017\Projects\UnityWizardCleaner\UnityWizardCleaner\obj\Debug\UnityWizardCleaner.pdb
